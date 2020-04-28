@@ -3,10 +3,10 @@
 ## This software is for numerical base conversion.
 
 ## Software datasheet
-Design Pattern: M.V.C.
-Used I.D.E: Eclipse
+Design Pattern: **M.V.C.** \
+Used I.D.E: **Eclipse**
 
-**Conversions between all these bases:**
+## **Conversions between all these bases:**
 
 ### Binary to :
   - Decimal 🕙
